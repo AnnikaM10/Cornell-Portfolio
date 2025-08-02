@@ -70,5 +70,5 @@ GPA: **3.81/4.00** • Expected Graduation: **May 2026**
 ---
 
 ## 📫 Contact
-- **Email:** annikam@example.com  
-- **LinkedIn:** [linkedin.com/in/annikam10](https://www.linkedin.com/in/annikam10)  
+- **Email:** amanju@bu.edu 
+- **LinkedIn:** [linkedin.com/in/annika-manjunath/](https://www.linkedin.com/in/annika-manjunath/)  
